@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/reno-wari79-69",
+      "dest": "/reno-wari79-69/index.html"
+    },
+    {
+      "src": "/reno-wari79-69/(.*)",
+      "dest": "/reno-wari79-69/$1"
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
+    }
+  ]
+}
